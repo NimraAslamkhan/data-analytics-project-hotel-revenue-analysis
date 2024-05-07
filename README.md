@@ -1,6 +1,6 @@
 # data-analytics-project-hotel-revenue-analysis
 
-###problem statment 
+###problem ststment
 
 The city hotel is experiencing significant challenges in managing its booking cancellations, optimizing revenue generation, and enhancing customer satisfaction and loyalty. Understanding the impact of lead time, seasonal patterns, and customer segmentation on cancellation rates, revenue fluctuations, and guest preferences is crucial for devising effective strategies to address these challenges.
 
@@ -38,7 +38,8 @@ Seasonality and Demand Fluctuations:
 Adult Request Trends and Revenue Generation:
 Correlation Matrix:
 
-### suggetions
+### suggestion
+
 
 
 •	The cancellation rate of 63% indicates a significant portion of reservations are canceled. To mitigate this, consider implementing more flexible cancellation policies or targeted marketing campaigns to encourage guests to keep their reservations.
